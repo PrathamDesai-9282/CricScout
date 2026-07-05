@@ -1,0 +1,6 @@
+{
+  "name": "CricScout AI",
+  "description": "Pro Cricket Scouting and Match Analytics cockpit powered by Gemini AI. Explore top prospects, compare similarity profiles, model mock auctions, and synthesize live match intelligence reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

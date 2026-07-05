@@ -1,0 +1,172 @@
+[
+  {
+    "player_id": "P001",
+    "name": "Pratham Desai",
+    "team": "Vapi Warriors",
+    "role": "All-Rounder",
+    "age": 27,
+    "batting": {
+      "matches": 20, "runs": 720, "average": 40,
+      "strike_rate": 148, "fours": 60, "sixes": 28
+    },
+    "bowling": {
+      "wickets": 18, "economy": 6.4, "dot_ball_percent": 44
+    },
+    "fielding": { "catches": 8, "run_outs": 3, "stumpings": 0 },
+    "scouting": { "consistency_score": 80 }
+  },
+  {
+    "player_id": "P002",
+    "name": "Rahul Patel",
+    "team": "Vapi Warriors",
+    "role": "Batter",
+    "age": 25,
+    "batting": {
+      "matches": 18, "runs": 580, "average": 35,
+      "strike_rate": 136, "fours": 54, "sixes": 16
+    },
+    "bowling": { "wickets": 0, "economy": null, "dot_ball_percent": 0 },
+    "fielding": { "catches": 5, "run_outs": 1, "stumpings": 0 },
+    "scouting": { "consistency_score": 60 }
+  },
+  {
+    "player_id": "P003",
+    "name": "Karan Mehta",
+    "team": "Vapi Warriors",
+    "role": "Bowler",
+    "age": 22,
+    "batting": {
+      "matches": 18, "runs": 95, "average": 8,
+      "strike_rate": 88, "fours": 10, "sixes": 2
+    },
+    "bowling": { "wickets": 24, "economy": 5.9, "dot_ball_percent": 52 },
+    "fielding": { "catches": 9, "run_outs": 2, "stumpings": 0 },
+    "scouting": { "consistency_score": 75 }
+  },
+  {
+    "player_id": "P004",
+    "name": "Nikhil Shah",
+    "team": "Vapi Warriors",
+    "role": "Batter",
+    "age": 30,
+    "batting": {
+      "matches": 20, "runs": 840, "average": 46,
+      "strike_rate": 152, "fours": 72, "sixes": 34
+    },
+    "bowling": { "wickets": 0, "economy": null, "dot_ball_percent": 0 },
+    "fielding": { "catches": 6, "run_outs": 4, "stumpings": 0 },
+    "scouting": { "consistency_score": 82 }
+  },
+  {
+    "player_id": "P005",
+    "name": "Dev Shah",
+    "team": "Surat Strikers",
+    "role": "All-Rounder",
+    "age": 28,
+    "batting": {
+      "matches": 18, "runs": 620, "average": 38,
+      "strike_rate": 138, "fours": 52, "sixes": 22
+    },
+    "bowling": { "wickets": 15, "economy": 7.0, "dot_ball_percent": 38 },
+    "fielding": { "catches": 7, "run_outs": 3, "stumpings": 0 },
+    "scouting": { "consistency_score": 72 }
+  },
+  {
+    "player_id": "P006",
+    "name": "Aakash Joshi",
+    "team": "Surat Strikers",
+    "role": "Bowler",
+    "age": 24,
+    "batting": {
+      "matches": 17, "runs": 110, "average": 9,
+      "strike_rate": 92, "fours": 12, "sixes": 3
+    },
+    "bowling": { "wickets": 28, "economy": 5.6, "dot_ball_percent": 56 },
+    "fielding": { "catches": 11, "run_outs": 1, "stumpings": 0 },
+    "scouting": { "consistency_score": 78 }
+  },
+  {
+    "player_id": "P007",
+    "name": "Ravi Thakor",
+    "team": "Surat Strikers",
+    "role": "Batter",
+    "age": 21,
+    "batting": {
+      "matches": 15, "runs": 490, "average": 36,
+      "strike_rate": 144, "fours": 44, "sixes": 18
+    },
+    "bowling": { "wickets": 0, "economy": null, "dot_ball_percent": 0 },
+    "fielding": { "catches": 4, "run_outs": 2, "stumpings": 0 },
+    "scouting": { "consistency_score": 55 }
+  },
+  {
+    "player_id": "P008",
+    "name": "Harsh Trivedi",
+    "team": "Surat Strikers",
+    "role": "Bowler",
+    "age": 29,
+    "batting": {
+      "matches": 16, "runs": 75, "average": 7,
+      "strike_rate": 82, "fours": 8, "sixes": 1
+    },
+    "bowling": { "wickets": 20, "economy": 6.8, "dot_ball_percent": 42 },
+    "fielding": { "catches": 6, "run_outs": 0, "stumpings": 0 },
+    "scouting": { "consistency_score": 65 }
+  },
+  {
+    "player_id": "P009",
+    "name": "Yash Naik",
+    "team": "Navsari Knights",
+    "role": "All-Rounder",
+    "age": 23,
+    "batting": {
+      "matches": 19, "runs": 660, "average": 37,
+      "strike_rate": 142, "fours": 56, "sixes": 24
+    },
+    "bowling": { "wickets": 16, "economy": 6.6, "dot_ball_percent": 40 },
+    "fielding": { "catches": 7, "run_outs": 4, "stumpings": 0 },
+    "scouting": { "consistency_score": 70 }
+  },
+  {
+    "player_id": "P010",
+    "name": "Mihir Desai",
+    "team": "Navsari Knights",
+    "role": "Batter",
+    "age": 32,
+    "batting": {
+      "matches": 20, "runs": 780, "average": 44,
+      "strike_rate": 145, "fours": 65, "sixes": 30
+    },
+    "bowling": { "wickets": 0, "economy": null, "dot_ball_percent": 0 },
+    "fielding": { "catches": 8, "run_outs": 2, "stumpings": 0 },
+    "scouting": { "consistency_score": 85 }
+  },
+  {
+    "player_id": "P011",
+    "name": "Siddharth Rao",
+    "team": "Navsari Knights",
+    "role": "Bowler",
+    "age": 26,
+    "batting": {
+      "matches": 18, "runs": 88, "average": 7,
+      "strike_rate": 85, "fours": 9, "sixes": 1
+    },
+    "bowling": { "wickets": 22, "economy": 6.2, "dot_ball_percent": 48 },
+    "fielding": { "catches": 10, "run_outs": 3, "stumpings": 0 },
+    "scouting": { "consistency_score": 68 }
+  },
+  {
+    "player_id": "P012",
+    "name": "Arjun Patel",
+    "team": "Navsari Knights",
+    "role": "Batter",
+    "age": 19,
+    "batting": {
+      "matches": 14, "runs": 420, "average": 32,
+      "strike_rate": 132, "fours": 38, "sixes": 14
+    },
+    "bowling": { "wickets": 0, "economy": null, "dot_ball_percent": 0 },
+    "fielding": { "catches": 3, "run_outs": 1, "stumpings": 0 },
+    "scouting": { "consistency_score": 50 }
+  }
+]

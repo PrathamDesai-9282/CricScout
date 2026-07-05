@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-cricket-slate-950: #0a0f1a;
+  --color-cricket-slate-900: #0f1824;
+  --color-cricket-slate-800: #1a2535;
+  --color-cricket-slate-700: #243047;
+  --color-cricket-slate-600: #2e3d5a;
+  --color-cricket-slate-500: #4a5f7a;
+  --color-cricket-slate-400: #6b7f9a;
+  --color-cricket-accent:    #00d4aa;
+  --color-cricket-cyan:      #00bcd4;
+
+  --font-family-sans:    'Space Grotesk', sans-serif;
+  --font-family-mono:    'JetBrains Mono', monospace;
+  --font-family-display: 'Outfit', sans-serif;
+}
+
+* {
+  border-radius: 0px !important;
+}

@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: cricscout-backend
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: MONGO_URI
+        sync: false
+      - key: DB_NAME
+        value: cricscout
+      - key: FLASK_ENV
+        value: production
