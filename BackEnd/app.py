@@ -17,4 +17,5 @@ def health():
 
 if __name__ == '__main__':
     debug = os.getenv("FLASK_ENV", "production") == "development"
-    app.run(debug=debug, host='0.0.0.0', port=int(os.getenv("PORT", 5000)))
+    port = int(os.getenv("PORT", 10000))
+    app.run(debug=debug, host='0.0.0.0', port=port)
