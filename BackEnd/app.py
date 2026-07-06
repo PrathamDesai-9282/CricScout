@@ -6,12 +6,7 @@ import os
 
 app = Flask(__name__)
 
-CORS(app, origins=[
-    "https://cric-scout.vercel.app",
-    "http://localhost:3000",
-    "http://localhost:5173",
-    "*"
-])
+CORS(app, origins="*", supports_credentials=False)
 
 app.register_blueprint(players_bp, url_prefix='/api')
 app.register_blueprint(auction_bp, url_prefix='/api')
